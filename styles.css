@@ -25,13 +25,12 @@ main {
 }
 
 h1 {
-  font-size: 22px;
   padding: 0.5rem 8rem;
   color: #fff;
 }
 
 .quote-box {
-  width: 300px;
+  width: 360px;
   height: auto;
   line-height: 1.7rem;
   margin: 1.5rem auto;
@@ -39,6 +38,7 @@ h1 {
   box-shadow: 0 0 11px #d7d2d2;
   padding: 11px 11px 5px;
   margin-bottom: 4rem;
+  font-size: 1.5rem;
 }
 
 button {
@@ -47,6 +47,7 @@ button {
   padding: 1rem 2rem;
   border-radius: 5px;
   color: #fff;
+  font-size: 1rem;
   cursor: pointer;
 }
 

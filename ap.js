@@ -13,10 +13,8 @@ const myqoutes = [
   `“We cannot solve problems with the kind of thinking we employed when we came up with them.”\n — Albert Einstein`,
   `“The enemy is fear. We think it is hate; but, it is fear.”\n — Mahatma Gandhi`,
   `“The family is the first essential cell of human society.”\n — Pope John XXIII`,
-  `“Any fool can know. The point is to understand.”\n
-  ― Albert Einstein`,
-  `“The only true wisdom is in knowing you know nothing.”\n
-    ― Socrates`,
+  `“Any fool can know. The point is to understand.”\n ― Albert Einstein`,
+  `“The only true wisdom is in knowing you know nothing.”\n ― Socrates`,
 ];
 
 btn.addEventListener("click", function () {
